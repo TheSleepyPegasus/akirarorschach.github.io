@@ -21,7 +21,7 @@ publishDir = "docs"
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
 
 [Params.style.vars]
-  highlightColor = "#e22d30" # Override highlight color
+  highlightColor = "#e00007" # Override highlight color
 
   # Override font-family sets
   # Take care of different quotes OR escaping symbols in these params if necessary
