@@ -1,5 +1,6 @@
 baseURL = 'https://akirarorschach.github.io/'
 languageCode = 'en-us'
+title = "Akira Rorschach"
 theme = 'mainroad'
 paginate = '10'
 publishDir = "docs"
@@ -31,7 +32,7 @@ publishDir = "docs"
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Akira Rorschach's Website" # Logo title, otherwise will use site title
+  title = "Akira Rorschach" # Logo title, otherwise will use site title
   subtitle = "Currently a demo." # Logo subtitle
 
 [Params.thumbnail]
