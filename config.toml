@@ -11,6 +11,7 @@ publishDir = "docs"
   avatar = "img/avatar.png"
 
 [Params]
+  title = "Akira Rorschach"
   description = "Akira Rorschach's personal website." # Site description. Used in meta description
   copyright = "Akira Rorschach" # Footer copyright holder, otherwise will use site title
   readmore = true # Show "Read more" button in list if true
@@ -61,8 +62,4 @@ publishDir = "docs"
   gitlab = "username"
   bitbucket = "username"
   email = "example@example.com"
-
-[[Params.widgets.social.custom]]
-  title = "My Home Page"
-  url = "https://example.com"
 
