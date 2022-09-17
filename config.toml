@@ -1,0 +1,6 @@
+baseURL = 'https://akirarorschach.github.io/'
+languageCode = 'en-us'
+title = 'Akira Rorschach'
+theme = 'mainroad'
+paginate = '10'
+publishDir = "docs"

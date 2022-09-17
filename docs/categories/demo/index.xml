@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demo on Akira Rorschach</title>
+    <link>https://akirarorschach.github.io/categories/demo/</link>
+    <description>Recent content in demo on Akira Rorschach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 21:02:27 -0400</lastBuildDate><atom:link href="https://akirarorschach.github.io/categories/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo</title>
+      <link>https://akirarorschach.github.io/posts/demo/</link>
+      <pubDate>Fri, 16 Sep 2022 21:02:27 -0400</pubDate>
+      
+      <guid>https://akirarorschach.github.io/posts/demo/</guid>
+      <description>If you see this, then something went right.</description>
+    </item>
+    
+  </channel>
+</rss>
