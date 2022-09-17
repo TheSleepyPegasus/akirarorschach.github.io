@@ -18,3 +18,5 @@ Lorem ipsum.
 # Heading
 
 More text. 
+
+Cool.
